@@ -1,4 +1,4 @@
-# ✨ Hello! I am David Khadayat ✋
+#  Hi, I'm David Khadayat! 👋
 A passionate BSc CSIT student at
 🏫 Siddhanath Science Campus, Mahendranagar, under Tribhuvan University (TU), Nepal 🇳🇵.
 💻 I am currently focused on becoming a skilled Full Stack Developer (Java) and enjoy building web applications and exploring modern technologies.
