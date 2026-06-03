@@ -1,16 +1,22 @@
-# 💫 Hi 👋, I'm David Khadayat
-** Full Stack Developer || Java **
+# ✨ Hello! I am David Khadayat a passionate BSc CSIT student at
+🏫 Siddhanath Science Campus, Mahendranagar, under Tribhuvan University (TU), Nepal 🇳🇵.
+💻 I am currently focused on becoming a skilled Full Stack Developer (Java) and enjoy building web applications and exploring modern technologies.
+🚀 I love learning by doing and continuously improving my coding, problem-solving, and development skills through projects.
 
 Email Me 👉 ✉️ **khadayatdavid247@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** Building real-world web applications and improving my Full Stack Development Skills.
+- 🌱 **I’m currently learning:**  Java Full Stack Development
+- 👯 **I’m looking to collaborate on:** Open-source projects and web development applications.
+- 🤔 **I’m looking for help with:** Advanced backend development and real-world project architecture.
+- 💬 **Ask me about:**
+* Java Development
+* Web Development
+* Collaboration & Project Ideas
+  
 - 📫 **How to reach me:** khadayatdavid247@gmail.com
 - 😄 **Pronouns:** David Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** Code first, sleep later 😎 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/its.davidkhadayat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debitkhadayat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khadayatdavid247@gmail.com) 
